@@ -37,7 +37,7 @@ step3：将C:/Program Files/SDL2_image/lib/SDL2_image.lib拷贝到，C:/Program 
 
 step4：cmake构建 flippy bird
 
-step5: 将SDL2的运行库拷贝到到当前release目录下
+step5：将SDL2的运行库拷贝到到当前release目录下
 
 注意：只有在Release下，才能够正常运行，debug下，SDL2的库出错。
 
