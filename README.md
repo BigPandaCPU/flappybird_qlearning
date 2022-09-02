@@ -11,7 +11,7 @@ $ ./app
 ```
 
 ## origin from https://github.com/enhuiz/flappybird-qlearning
-## 以上为原作者简单的reademe，以下是我的补充
+## 以上为原作者简单的reademe，是在ubuntu系统上运行，以下是我的补充，将其改到在windows下运行
 ## 本地编译
 
 #依赖库
