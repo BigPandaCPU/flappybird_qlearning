@@ -45,4 +45,7 @@ step5：将SDL2的运行库拷贝到到当前release目录下
 #运行截图：
 ![Example](./image/训练过程截图.png)
 
+#训练一段时间后的截图
+![Example](./image/训练过程截图2.png)
+
 
