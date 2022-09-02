@@ -16,9 +16,16 @@ $ ./app
 
 #依赖库
 
-1. SDL2
-2. SDL2_image
+1. SDL2    下载链接：https://github.com/libsdl-org/SDL/releases
+2. SDL2_image   下载链接：https://github.com/libsdl-org/SDL_image/releases
 
+注意：下载源代码，而不是编译后的
+
+此次实验选择的版本为：
+SDL2_image-2.6.1.zip
+SDL2-2.0.22.tar.gz
+
+ 
 
 step1:下载好这两个库后，采用Cmake进行默认编译，编译安装路径采用默认的。
 默认安装在C:/Program Files/SDL2 和 C:/Program Files/SDL2_image
